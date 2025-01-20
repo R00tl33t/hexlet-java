@@ -1,2 +1,1 @@
-# hexlet-java
-This repository made for study
+Мой первый проект на Хекслете
